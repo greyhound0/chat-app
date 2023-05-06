@@ -11,8 +11,6 @@ function App() {
     <div className="App">
       <ChatEngine
         height="100vh"
-        projectID="
-ac9dd198-b356-4b4e-a41b-9d1d2b767ac7"
         userName="greyhound"
         userSecret="12345678"
         projectID={projectID}
