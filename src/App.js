@@ -15,6 +15,7 @@ function App() {
 ac9dd198-b356-4b4e-a41b-9d1d2b767ac7"
         userName="greyhound"
         userSecret="12345678"
+        projectID={projectID}
         renderChatFeed={(chatAppProps) => <ChatFeed {...chatAppProps} />}
         onNewMessage={() =>
           new Audio(
