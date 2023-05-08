@@ -124,7 +124,7 @@ const Modal = () => {
           />
           <div align="center">
             <button type="submit" className="button">
-              <span>Start Chat</span>
+              <span>Chat</span>
             </button>
           </div>
         </form>
